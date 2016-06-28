@@ -7,3 +7,5 @@ def fun():
 def more_fun():
     x = fun() - 100
     return x
+
+more_fun()
